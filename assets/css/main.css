@@ -2879,3 +2879,8 @@ input, select, textarea {
 			}
 
 	}
+
+	.small
+	{
+		background-color: grey;
+	}
