@@ -2823,6 +2823,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
+					margin-top: 20px;
 					color: #252122;
 					font-weight: 900;
 					font-size: 1.75em;
