@@ -148,7 +148,7 @@ Then type:
 
     $ git commit
 
-This will lead you to a text editor. Now you need to write your commit message. Commit message guidelines should be strictly followed at they help keep the codebase **clean** and **stable**. Commit messages usually consists of three main parts. They should have a newline between them.
+This will lead you to a text editor. Now you need to write your commit message. `Commit message guidelines <https://wiki.gnome.org/Git/CommitMessages>`_ should be strictly followed at they help keep the codebase **clean** and **stable**. Commit messages usually consists of three main parts. They should have a newline between them.
 
 - **The header**
 
